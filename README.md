@@ -61,5 +61,5 @@
    - [Download & Repo](https://github.com/SimonBrazell/privacy-redirect)
    - [x] Open-Source
 
-<sup>This repository is not affiliated with any of the mentioned brands. Trademarks belong to their respective owners.
-YouTube is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of Imgur LLC. Instagram is a trademark of Instagram LLC.</sup>
+<sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.
+YouTube is a trademark of Google LLC. Google is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of Imgur LLC. Instagram is a trademark of Instagram LLC.</sup>
