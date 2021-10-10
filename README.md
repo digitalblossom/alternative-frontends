@@ -28,5 +28,12 @@
    - [x] Open-Source
    - [x] Self-Hostable
 
+- **Bibliogram**
+   - Alternative Instagram frontend without Javascript, tracking, ads and signup prompts. 
+   - [Main Instance](https://bibliogram.art/) | [Repo](https://sr.ht/~cadence/bibliogram/)
+   - [Public Instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md) 
+   - [x] Open-Source 
+   - [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Installing%20%28extended%29.md)
+
 <sup>This repository is not affiliated with any of the mentioned brands. Trademarks belong to their respective owners.
-YouTube is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of Imgur LLC.</sup>
+YouTube is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of Imgur LLC. Instagram is a trademark of Instagram LLC.</sup>
