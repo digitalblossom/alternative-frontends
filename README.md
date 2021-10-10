@@ -21,5 +21,12 @@
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/zedeus/nitter#installation)
 
+- **Imgin**
+   - Lightweight Imgur frontend without Javascript and ads. Uses its own request implementation.
+   - [Main Instance](https://imgin.voidnet.tech/) | [Repo](https://git.voidnet.tech/kev/imgin)
+   - Public Instances n/a
+   - [x] Open-Source
+   - [x] Self-Hostable
+
 <sup>This repository is not affiliated with any of the mentioned brands. Trademarks belong to their respective owners.
-YouTube is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc.</sup>
+YouTube is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of Imgur LLC.</sup>
