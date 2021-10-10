@@ -35,5 +35,11 @@
    - [x] Open-Source 
    - [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Installing%20%28extended%29.md)
 
+### Tools
+- **Privacy Redirect**
+   - Browser extension that automatically redirects to the alternative frontends of several services. Available for Chromium browsers and Firefox.
+   - [Download & Repo](https://github.com/SimonBrazell/privacy-redirect)
+   - [x] Open-Source
+
 <sup>This repository is not affiliated with any of the mentioned brands. Trademarks belong to their respective owners.
 YouTube is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of Imgur LLC. Instagram is a trademark of Instagram LLC.</sup>
