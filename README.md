@@ -31,6 +31,14 @@
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/benbusby/whoogle-search#install)
 
+### Medium
+- **Scribe**
+   - Tracking- and ad-free FOSS frontend for Medium
+   - [Main Instance](https://scribe.rip) | [Repo](https://git.sr.ht/~edwardloveall/scribe)
+   - Public Instances n/a
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://git.sr.ht/~edwardloveall/scribe#deploying-your-own) 
+
 ### Twitter
 - **Nitter**
    - Lightweight Twitter frontend. No ads, no Javascript, no tracking. RSS support.
@@ -62,4 +70,4 @@
    - [x] Open-Source
 
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.
-YouTube is a trademark of Google LLC. Google is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of Imgur LLC. Instagram is a trademark of Instagram LLC.</sup>
+YouTube is a trademark of Google LLC. Google is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of Imgur LLC. Instagram is a trademark of Instagram LLC. Medium is a trademark of A Medium Corporation.</sup>
