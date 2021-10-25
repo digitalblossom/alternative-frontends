@@ -23,6 +23,14 @@
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/spikecodes/libreddit#installation)
 
+### Translate
+- **Lingva**
+   - Tracking-free Google Translate frontend
+   - [Main Instance](https://lingva.ml/) | [Repo](https://github.com/TheDavidDelta/lingva-translate)
+   - [Public Instances](https://github.com/TheDavidDelta/lingva-translate#instances)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/TheDavidDelta/lingva-translate#deployment)
+
 ### Search Engines
 - **Whoogle**
    - Google search result frontend without Javascript, ads, cookies and tracking. Tor and HTTP/SOCKS proxy support
