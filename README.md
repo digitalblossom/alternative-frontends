@@ -1,6 +1,6 @@
 ## 𝔸𝕝𝕥𝕖𝕣𝕟𝕒𝕥𝕚𝕧𝕖 Frontends
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/digitalblossom/alternative-frontends/graphs/commit-activity) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 ### YouTube
 - **Invidious**
