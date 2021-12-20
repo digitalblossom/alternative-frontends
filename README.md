@@ -5,6 +5,8 @@
 ___
 ⓘ You can suggest new frontends [here](https://github.com/digitalblossom/alternative-frontends/issues/new?assignees=digitalblossom&labels=Suggestion&template=frontend-submission.md&title=).
 ___
+☰ You can jump between sections via the little menu icon above to the left. 
+___
 
 ### YouTube
 - **Invidious**
