@@ -2,6 +2,10 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/digitalblossom/alternative-frontends/graphs/commit-activity) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
+___
+ⓘ You can suggest new frontends [here](https://github.com/digitalblossom/alternative-frontends/issues/new?assignees=digitalblossom&labels=Suggestion&template=frontend-submission.md&title=).
+___
+
 ### YouTube
 - **Invidious**
    - Lightweight YouTube frontend - no tracking, no ads and Javascript is optional.
