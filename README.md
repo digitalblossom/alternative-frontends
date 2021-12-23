@@ -16,6 +16,13 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://docs.invidious.io/Installation.md)
 
+- **Piped**
+   - Alternative privacy-friendly YouTube frontend. Lightweight, no ads, no tracking, 4K support and more. 
+   - [Main Instance](https://piped.kavin.rocks) | [Repo](https://github.com/TeamPiped/Piped)
+   - Public Instances n/a
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://piped-docs.kavin.rocks/docs/self-hosting)
+
 ### Reddit
 - **Teddit**
    - Privacy-focused lightweight Reddit frontend. No ads, no javascript. Provides an unofficial API. 
