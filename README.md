@@ -23,6 +23,13 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://piped-docs.kavin.rocks/docs/self-hosting)
 
+- **Cloudtube**
+   - Alternative Invidious frontend without Javascript. 
+   - [Main Instance](https://tube.cadence.moe) | [Repo](https://sr.ht/~cadence/tube)
+   - Public Instances n/a
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md)
+
 ### Reddit
 - **Teddit**
    - Privacy-focused lightweight Reddit frontend. No ads, no javascript. Provides an unofficial API. 
@@ -85,6 +92,8 @@ ___
    - [Public Instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md) 
    - [x] Open-Source 
    - [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Installing%20%28extended%29.md)
+
+   ⓘ Bibliogram is currently not working due to Instagram blacklisting servers. 
 
 ### Tools
 - **Privacy Redirect**
