@@ -118,5 +118,10 @@ ___
    - [Download & Repo](https://github.com/SimonBrazell/privacy-redirect)
    - [x] Open-Source
 
+- **UntrackMe**
+   - FOSS Android app that redirects to the alternative frontends of several services. Can also clean tracking parameters.
+   - [Download & Homepage](https://fedilab.app/wiki/untrackme) | [Repo](https://framagit.org/tom79/nitterizeme) 
+   - [x] Open-Source
+
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.
 YouTube is a trademark of Google LLC. Google is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of Imgur LLC. Instagram is a trademark of Instagram LLC. Medium is a trademark of A Medium Corporation.</sup>
