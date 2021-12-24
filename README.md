@@ -53,6 +53,14 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/TheDavidDelta/lingva-translate#deployment)
 
+- **SimplyTranslate**
+   - FOSS Javascript-free frontend for multiple translators, including Google Translate and DeepL
+   - [Homepage](https://simple-web.org/projects/simplytranslate.html) | [Main Instance](https://simplytranslate.org) | [Repo](https://sr.ht/~metalune/SimplyTranslate) 
+   - [Public Instances](https://simple-web.org/instances/simplytranslate)
+   - [x] Open-Source
+   - [x] Self-Hostable
+
+
 ### Search Engines
 - **Whoogle**
    - Google search result frontend without Javascript, ads, cookies and tracking. Tor and HTTP/SOCKS proxy support
