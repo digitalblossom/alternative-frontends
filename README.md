@@ -112,6 +112,14 @@ ___
 
    ⓘ Bibliogram is currently not working due to Instagram blacklisting servers. 
 
+### Wikipedia
+- **Wikiless**
+   - A Javascript-free Wikipedia frontend. Should work in countries where Wikipedia is censored.
+   - [Main Instance](https://wikiless.org) | [Repo](https://codeberg.org/orenom/wikiless)
+   - [Public Instances](https://codeberg.org/orenom/wikiless#instances)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://codeberg.org/orenom/wikiless#installation)
+
 ### Tools
 - **Privacy Redirect**
    - Browser extension that automatically redirects to the alternative frontends of several services. Available for Chromium browsers and Firefox.
