@@ -88,10 +88,13 @@ ___
 ### Imgur
 - **Rimgu**
    - Lightweight Imgur frontend without Javascript and ads. Uses its own request implementation. Can use either API or scraping.
-   - [Repo](https://codeberg.org/3np/rimgu)
+   - Main Instance n/a | [Repo](https://codeberg.org/3np/rimgu)
    - Public Instances n/a
    - [x] Open-Source
    - [x] Self-Hostable
+
+   ⓘ Rimgu is currently in early development
+
 - **Imgin**
    - Lightweight Imgur frontend without Javascript and ads. Uses its own request implementation.
    - [Main Instance](https://imgin.voidnet.tech/) | [Repo](https://git.voidnet.tech/kev/imgin)
