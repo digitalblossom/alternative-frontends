@@ -12,7 +12,7 @@ ___
 ### YouTube
 - **Invidious**
    - Lightweight YouTube frontend - no tracking, no ads and Javascript is optional.
-   - Main Instance n/a | [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious)
+   - [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious)
    - [Public Instances](https://docs.invidious.io/Invidious-Instances.md)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://docs.invidious.io/Installation.md)
