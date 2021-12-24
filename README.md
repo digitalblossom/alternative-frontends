@@ -1,6 +1,7 @@
 ## 𝔸𝕝𝕥𝕖𝕣𝕟𝕒𝕥𝕚𝕧𝕖 Frontends
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/digitalblossom/alternative-frontends/graphs/commit-activity) [![Coffee](https://img.shields.io/badge/Buy%20me%20a-coffee-orange)](https://ko-fi.com/digitalblossom) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/digitalblossom/alternative-frontends/graphs/commit-activity) [![Coffee](https://img.shields.io/badge/Buy%20me%20a-coffee-orange)](https://ko-fi.com/digitalblossom)
 
 ___
 ⓘ You can suggest new frontends [here](https://github.com/digitalblossom/alternative-frontends/issues/new?assignees=digitalblossom&labels=Suggestion&template=frontend-submission.md&title=).
@@ -119,6 +120,8 @@ ___
    - [Public Instances](https://codeberg.org/orenom/wikiless#instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://codeberg.org/orenom/wikiless#installation)
+
+___
 
 ### Tools
 - **Privacy Redirect**
