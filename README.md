@@ -137,7 +137,7 @@ ___
    - [x] Open-Source
 
 ___
-I will keep this project up-to-date. If you find it useful, feel free to [![Coffee](https://img.shields.io/badge/Buy%20me%20a-coffee-orange)](https://ko-fi.com/digitalblossom).
+If you find this project useful, feel free to [![Coffee](https://img.shields.io/badge/Buy%20me%20a-coffee-orange)](https://ko-fi.com/digitalblossom).
 ___
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.
 YouTube is a trademark of Google LLC. Google is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of Imgur LLC. Instagram is a trademark of Instagram LLC. Medium is a trademark of A Medium Corporation.</sup>
