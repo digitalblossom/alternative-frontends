@@ -126,6 +126,13 @@ ___
 ___
 
 ### Tools
+
+- **Farside**
+   - Automatically redirects to working instances of alternative frontends. Helps prevent performance bottlenecks by distributing across instances.
+   - [Homepage](https://farside.link) | [Repo](https://github.com/benbusby/farside)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/benbusby/farside#development)
+
 - **Privacy Redirect**
    - Browser extension that automatically redirects to the alternative frontends of several services. Available for Chromium browsers and Firefox.
    - [Download & Repo](https://github.com/SimonBrazell/privacy-redirect)
