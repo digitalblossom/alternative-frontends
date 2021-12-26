@@ -8,7 +8,10 @@ ___
 ___
 ☰ You can jump between sections via the little menu icon above to the left. 
 ___
-
+ⓘ Check out the [tools section](#tools) at the bottom to find out how to easily adopt and even self-host.
+___
+[Youtube](#youtube) • [Reddit](#reddit) • [Translate](#translate) • [Search Engines](#search-engines) • [Medium](#medium) • [Twitter](#twitter) • [Imgur](#imgur) • [Instagram](#instagram) • [Wikipedia](#wikipedia) • [TOOLS](#tools)
+___
 ### YouTube
 - **Invidious**
    - Lightweight YouTube frontend - no tracking, no ads and Javascript is optional.
