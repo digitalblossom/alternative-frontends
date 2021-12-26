@@ -151,6 +151,12 @@ ___
    - [Download & Homepage](https://fedilab.app/wiki/untrackme) | [Repo](https://framagit.org/tom79/nitterizeme) 
    - [x] Open-Source
 
+- **YunoHost**
+   - Novice-friendly server OS. Easily host multiple of the listed services on your own hardware (e. g. a Raspberry Pi) using templates.
+   - [Download & Homepage](https://yunohost.org) | [Repo](https://github.com/YunoHost)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://yunohost.org/en/install)
+
 ___
 If you find this project useful, feel free to [![Coffee](https://img.shields.io/badge/Buy%20me%20a-coffee-orange)](https://ko-fi.com/digitalblossom).
 ___
