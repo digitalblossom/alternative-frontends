@@ -72,6 +72,14 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/benbusby/whoogle-search#install)
 
+- **SearX**
+   - Privacy-respecting, self-hostable metasearch engine. Acts as frontend for more than 70 search services.
+   - [Homepage](https://searx.github.io/searx) | [Repo](https://github.com/searx/searx)
+   - [Public Instances](https://searx.space)
+   - [x] Open-Source
+   - [x] Self-Hostable
+   - [x] Decentralized Options | [Onion](http://searxspbitokayvkhzhsnljde7rqmn7rvoga6e4waeub3h7ug3nghoad.onion)
+
 ### Medium
 - **Scribe**
    - Tracking- and ad-free FOSS frontend for Medium
