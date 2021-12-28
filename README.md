@@ -159,6 +159,13 @@ ___
    - [Download & Repo](https://github.com/SimonBrazell/privacy-redirect)
    - [x] Open-Source
 
+- **SSL Labs**
+   - Free tool by Qualys that does a deep analysis to check the SSL implementation of a server. Helpful to check public instances. You'll find this on the [Piped](#youtube) page for instance.
+   - [Homepage](https://www.ssllabs.com/ssltest/)
+   - [ ] Open-Source
+
+   ⓘ Not Open Source, but made by a trustworthy company and operates with a [good privacy policy](https://www.ssllabs.com/downloads/Qualys_SSL_Labs_Terms_of_Use.pdf).
+
 - **UntrackMe**
    - FOSS Android app that redirects to the alternative frontends of several services. Can also clean tracking parameters.
    - [Download & Homepage](https://fedilab.app/wiki/untrackme) | [Repo](https://framagit.org/tom79/nitterizeme) 
