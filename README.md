@@ -22,7 +22,7 @@ ___
    - [x] Decentralized Options | [I2P](http://tube.i2p) | [Onion](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md#tor-onion-services) | [Loki](http://invidious.loki)
 
 - **Piped**
-   - Alternative privacy-friendly YouTube frontend. Lightweight, no ads, no tracking, 4K support and more. 
+   - Alternative privacy-friendly YouTube frontend. Lightweight, no ads (Sponsorblock integrated), no tracking, 4K support and more. 
    - [Main Instance](https://piped.kavin.rocks) | [Repo](https://github.com/TeamPiped/Piped)
    - [Public Instances](https://piped.kavin.rocks/preferences) (scroll down)
    - [x] Open-Source
