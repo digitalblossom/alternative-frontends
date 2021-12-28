@@ -52,6 +52,15 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/spikecodes/libreddit#installation)
 
+- **Troddit**   
+   - A significantly smaller Open Source frontend for Reddit, written in NextJS.
+   - [Main Instance](https://troddit.com/) | [Repo](https://github.com/burhan-syed/troddit)
+   - Public Instances n/a
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/burhan-syed/troddit#getting-started)
+
+   ⓘ Uses Javascript and Vercel's [audience analytics](https://nextjs.org/analytics).
+
 ### Translate
 - **Lingva**
    - Tracking-free Google Translate frontend
@@ -163,6 +172,8 @@ ___
 
 ___
 If you find this project useful, feel free to [![Coffee](https://img.shields.io/badge/Buy%20me%20a-coffee-orange)](https://ko-fi.com/digitalblossom).
+
+Credit to mendel5 for the idea. While his awesome project served as inspiration, this repo is not a fork and uses a different approach with different projects listed.
 ___
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.
 YouTube is a trademark of Google LLC. Google is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of Imgur LLC. Instagram is a trademark of Instagram LLC. Medium is a trademark of A Medium Corporation.</sup>
