@@ -98,7 +98,7 @@ ___
 - **Scribe**
    - Tracking- and ad-free FOSS frontend for Medium
    - [Main Instance](https://scribe.rip) | [Repo](https://git.sr.ht/~edwardloveall/scribe)
-   - Public Instances n/a
+   - [Public Instances](https://git.sr.ht/~edwardloveall/scribe/tree/main/docs/instances.md)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://git.sr.ht/~edwardloveall/scribe#deploying-your-own) 
 
@@ -179,7 +179,7 @@ ___
    - [x] Self-Hostable | [Guide](https://yunohost.org/en/install)
 
 ___
-If you find this project useful, feel free to [![Coffee](https://img.shields.io/badge/Buy%20me%20a-coffee-orange)](https://ko-fi.com/digitalblossom).
+If you appreciate the work that went into compiling and updating this list, feel free to [![Coffee](https://img.shields.io/badge/Buy%20me%20a-coffee-orange)](https://ko-fi.com/digitalblossom).
 
 Credit to mendel5 for the idea. While his awesome project served as inspiration, this repo is not a fork and uses a different approach with different projects listed.
 ___
