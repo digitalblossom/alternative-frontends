@@ -5,7 +5,7 @@
 
 **This is a list of privacy-respecting frontends to popular services like social media. All of them are cross-plattform webapps and should work on your device no matter the OS and hardware.**
 ___
-ⓘ You can suggest new frontends [here](https://github.com/digitalblossom/alternative-frontends/issues/new?assignees=digitalblossom&labels=Suggestion&template=frontend-submission.md&title=).
+ⓘ You can suggest new frontends and modifications (new domains, removal ...) **[here](https://github.com/digitalblossom/alternative-frontends/issues/new/choose)**.
 ___
 [Youtube](#youtube) • [Reddit](#reddit) • [Translate](#translate) • [Search Engines](#search-engines) • [Medium](#medium) • [Twitter](#twitter) • [Imgur](#imgur) • [Instagram](#instagram) • [Wikipedia](#wikipedia) • [Tools](#tools)
 
