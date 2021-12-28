@@ -3,12 +3,13 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/digitalblossom/alternative-frontends/graphs/commit-activity) [![Coffee](https://img.shields.io/badge/Buy%20me%20a-coffee-orange)](https://ko-fi.com/digitalblossom)
 
+**This is a list of privacy-respecting frontends to popular services like social media. All of them are cross-plattform webapps and should work on your device no matter the OS and hardware.**
 ___
 ⓘ You can suggest new frontends [here](https://github.com/digitalblossom/alternative-frontends/issues/new?assignees=digitalblossom&labels=Suggestion&template=frontend-submission.md&title=).
 ___
-☰ You can jump between sections via the little menu icon above to the left. 
-___
 [Youtube](#youtube) • [Reddit](#reddit) • [Translate](#translate) • [Search Engines](#search-engines) • [Medium](#medium) • [Twitter](#twitter) • [Imgur](#imgur) • [Instagram](#instagram) • [Wikipedia](#wikipedia) • [Tools](#tools)
+
+☰ You can jump between sections via the little menu icon above to the left. 
 
 ⓘ Check out the [tools section](#tools) at the bottom to find out how to easily adopt and even self-host.
 ___
