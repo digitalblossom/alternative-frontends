@@ -28,6 +28,7 @@ ___
    - [Public Instances](https://piped.kavin.rocks/preferences) (scroll down)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://piped-docs.kavin.rocks/docs/self-hosting)
+   - [x] Decentralized Options | [IPNS](https://github.com/digitalblossom/alternative-frontends/issues/25#issuecomment-1002261657) | [Onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
 
 - **Cloudtube**
    - Alternative Invidious frontend without Javascript. 
