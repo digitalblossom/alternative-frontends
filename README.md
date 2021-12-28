@@ -116,7 +116,7 @@ ___
    - Main Instance n/a | [Repo](https://codeberg.org/3np/rimgu)
    - Public Instances n/a
    - [x] Open-Source
-   - [x] Self-Hostable
+   - [x] Self-Hostable | [Guide](https://codeberg.org/3np/rimgu#docker-1)
 
    ⓘ Rimgu is currently in early development
 
