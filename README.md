@@ -160,7 +160,7 @@ ___
    - [x] Open-Source
 
 - **SSL Labs**
-   - Free tool by Qualys that does a deep analysis to check the SSL implementation of a server. Just enter any domain (such as an alternative frontend's) and wait.
+   - Free tool by Qualys that does a deep analysis to check the SSL implementation of a server. Helpful to check public instances. You'll find this on the [Piped](#youtube) page for instance.
    - [Homepage](https://www.ssllabs.com/ssltest/)
    - [ ] Open-Source
 
