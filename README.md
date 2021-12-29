@@ -60,7 +60,7 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/burhan-syed/troddit#getting-started)
 
-   ⓘ Uses Javascript and Vercel's [audience analytics](https://nextjs.org/analytics).
+   ⓘ Uses Javascript and Vercel's [audience analytics](https://nextjs.org/analytics). Connects directly to Reddit without a proxy.
 
 ### Translate
 - **Lingva**
