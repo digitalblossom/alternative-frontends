@@ -119,6 +119,14 @@ ___
    - [x] Self-Hostable | [Guide](https://codeberg.org/3np/rimgu#docker-1)
 
    ⓘ Rimgu is currently in early development
+   
+- **Rimgo**
+   - Rewrite of Rimgu in Go. Works without JS and has several public instances, including an Onion one.
+   - [Main Instance](https://i.bcow.xyz/) | [Repo](https://codeberg.org/video-prize-ranch/rimgo)
+   - [Public Instances](https://codeberg.org/video-prize-ranch/rimgo#instances)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://codeberg.org/video-prize-ranch/rimgo#install)
+   - [x] Decentralized Options | [Onion](https://codeberg.org/video-prize-ranch/rimgo#instances)
 
 - **Imgin**
    - Lightweight Imgur frontend without Javascript and ads. Uses its own request implementation.
