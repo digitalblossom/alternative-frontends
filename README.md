@@ -168,6 +168,13 @@ ___
    - [Download & Repo](https://github.com/SimonBrazell/privacy-redirect)
    - [x] Open-Source
 
+   ⓘ Developement of Privacy Redirect has ended/paused, consider using LibRedirect instead
+
+- **LibRedirect**
+   - Maintained fork of Privacy Redirect with new services added and a refreshed UI.
+   - [Homepage & Download](https://libredirect.github.io) | [Repo](https://github.com/libredirect/libredirect)
+   - [x] Open-Source
+
 - **SSL Labs**
    - Free tool by Qualys that does a deep analysis to check the SSL implementation of a server. Helpful to check public instances. You'll find this on the [Piped](#youtube) page for instance.
    - [Homepage](https://www.ssllabs.com/ssltest/)
