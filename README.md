@@ -7,7 +7,7 @@
 ___
 ⓘ You can suggest new frontends and modifications (new domains, removal ...) **[here](https://github.com/digitalblossom/alternative-frontends/issues/new/choose)**.
 ___
-[Youtube](#youtube) • [Reddit](#reddit) • [Translate](#translate) • [Search Engines](#search-engines) • [Medium](#medium) • [Twitter](#twitter) • [Imgur](#imgur) • [Instagram](#instagram) • [Wikipedia](#wikipedia) • [Tools](#tools)
+[Youtube](#youtube) • [Reddit](#reddit) • [Translate](#translate) • [Search Engines](#search-engines) • [Medium](#medium) • [Twitter](#twitter) • [Imgur](#imgur) • [Instagram](#instagram) • [Tiktok](#tiktok) • [Wikipedia](#wikipedia) • [Tools](#tools)
 
 ☰ You can jump between sections via the little menu icon above to the left. 
 
@@ -144,6 +144,15 @@ ___
    - [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Installing%20%28extended%29.md)
 
    ⓘ Bibliogram is currently not working due to Instagram blacklisting servers. 
+
+### Tiktok
+- **ProxiTok**
+   - Open-Source frontend for Tiktok that proxies users requests.
+   - [Main Instance](https://proxitok.herokuapp.com) | [Repo](https://github.com/pablouser1/ProxiTok)
+   - Public Instances n/a
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/pablouser1/ProxiTok#installation)
+
 
 ### Wikipedia
 - **Wikiless**
