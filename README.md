@@ -7,7 +7,7 @@
 ___
 ⓘ You can suggest new frontends and modifications (new domains, removal ...) **[here](https://github.com/digitalblossom/alternative-frontends/issues/new/choose)**.
 ___
-[Youtube](#youtube) • [Reddit](#reddit) • [Translate](#translate) • [Search Engines](#search-engines) • [Medium](#medium) • [Twitter](#twitter) • [Imgur](#imgur) • [Instagram](#instagram) • [Tiktok](#tiktok) • [Wikipedia](#wikipedia) • [Tools](#tools)
+[Youtube](#youtube) • [YT Music](#youtube-music) • [Reddit](#reddit) • [Translate](#translate) • [Search Engines](#search-engines) • [Medium](#medium) • [Twitter](#twitter) • [Imgur](#imgur) • [Instagram](#instagram) • [Tiktok](#tiktok) • [Wikipedia](#wikipedia) • [Tools](#tools)
 
 ☰ You can jump between sections via the little menu icon above to the left. 
 
@@ -36,6 +36,14 @@ ___
    - Public Instances n/a
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md)
+
+### YouTube Music
+- **BeatBump**
+   - Privacy-friendly YouTube Music frontend built with Svelte. Supports device sync.
+   - [Main Instance](https://beatbump.ml) | [Repo](https://github.com/snuffyDev/Beatbump)
+   - Public Instances n/a
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://snuffydev.github.io/Beatbump/index.html#/docs/introduction/deploying)
 
 ### Reddit
 - **Teddit**
@@ -208,4 +216,4 @@ If you appreciate the work that went into compiling and updating this list, feel
 Credit to mendel5 for the idea. While his awesome project served as inspiration, this repo is not a fork and uses a different approach with different projects listed.
 ___
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.
-YouTube is a trademark of Google LLC. Google is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of Imgur LLC. Instagram is a trademark of Instagram LLC. Medium is a trademark of A Medium Corporation.</sup>
+YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC. Google is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of Imgur LLC. Instagram is a trademark of Meta Platforms. Medium is a trademark of A Medium Corporation. Tiktok is a trademark of Bytedance Ltd.</sup>
