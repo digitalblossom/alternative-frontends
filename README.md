@@ -37,6 +37,14 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md)
 
+- **Viewtube**
+   - Privacy-respecting frontend with subscription, watch-progress and recommendation features. 
+   - [Main Instance](https://viewtube.io/) | [Repo](https://github.com/ViewTube/viewtube-vue)
+   - Public Instances n/a
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/ViewTube/viewtube-vue#host-it-yourself)
+
+
 ### YouTube Music
 - **BeatBump**
    - Privacy-friendly YouTube Music frontend built with Svelte. Supports device sync.
