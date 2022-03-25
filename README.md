@@ -100,7 +100,15 @@ ___
    - [Public Instances](https://searx.space)
    - [x] Open-Source
    - [x] Self-Hostable
-   - [x] Decentralized Options | [Onion](http://searxspbitokayvkhzhsnljde7rqmn7rvoga6e4waeub3h7ug3nghoad.onion)
+   - [x] Decentralized Options | [Onion](https://searx.space)
+
+- **SearxNG**
+   - Fork of SearX with UI improvements (including to the settings page) and updates to the selfhosting procedure.
+   - [Homepage](https://searxng.org) | [Repo](https://github.com/searxng/searxng)
+   - [Public Instances](https://searx.space)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://docs.searxng.org/admin/index.html)
+   - [x] Decentralized Options | [Onion](https://searx.space)
 
 ### Medium
 - **Scribe**
