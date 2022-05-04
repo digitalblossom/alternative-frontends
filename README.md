@@ -7,7 +7,7 @@
 ___
 ⓘ You can suggest new frontends and modifications (new domains, removal ...) **[here](https://github.com/digitalblossom/alternative-frontends/issues/new/choose)**.
 ___
-[Youtube](#youtube) • [YT Music](#youtube-music) • [Reddit](#reddit) • [Translate](#translate) • [Search Engines](#search-engines) • [Medium](#medium) • [Twitter](#twitter) • [Imgur](#imgur) • [Instagram](#instagram) • [Tiktok](#tiktok) • [Odyssey](#odyssey) • [Wikipedia](#wikipedia) • [Tools](#tools)
+[Youtube](#youtube) • [YT Music](#youtube-music) • [Reddit](#reddit) • [Translate](#translate) • [Search Engines](#search-engines) • [Medium](#medium) • [Twitter](#twitter) • [Imgur](#imgur) • [Instagram](#instagram) • [Tiktok](#tiktok) • [Odysee](#odysee) • [Wikipedia](#wikipedia) • [Tools](#tools)
 
 ☰ You can jump between sections via the little menu icon above to the left. 
 
@@ -177,9 +177,9 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/pablouser1/ProxiTok#installation)
 
-### Odyssey
+### Odysee
 - **Librarian**
-   - Open-Source, lightweight and privacy-respecting frontened for Odyssey.
+   - Open-Source, lightweight and privacy-respecting frontened for Odysee.
    - [Main Instance](https://lbry.bcow.xyz) | [Repo](https://codeberg.org/librarian/librarian)
    - [Public Instances](https://codeberg.org/librarian/librarian#clearnet)
    - [x] Open-Source
@@ -240,4 +240,4 @@ If you appreciate the work that went into compiling and updating this list, feel
 Credit to mendel5 for the idea. While his awesome project served as inspiration, this repo is not a fork and uses a different approach with different projects listed.
 ___
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.
-YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC. Google is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of Imgur LLC. Instagram is a trademark of Meta Platforms. Medium is a trademark of A Medium Corporation. Tiktok is a trademark of Bytedance Ltd.</sup>
+YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC. Google is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of Imgur LLC. Instagram is a trademark of Meta Platforms. Medium is a trademark of A Medium Corporation. Tiktok is a trademark of Bytedance Ltd. Odysee is a trademark of Odysee, Inc.</sup>
