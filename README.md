@@ -7,7 +7,7 @@
 ___
 ⓘ You can suggest new frontends and modifications (new domains, removal ...) **[here](https://github.com/digitalblossom/alternative-frontends/issues/new/choose)**.
 ___
-[Youtube](#youtube) • [YT Music](#youtube-music) • [Reddit](#reddit) • [Translate](#translate) • [Search Engines](#search-engines) • [Medium](#medium) • [Twitter](#twitter) • [Imgur](#imgur) • [Instagram](#instagram) • [Tiktok](#tiktok) • [Wikipedia](#wikipedia) • [Tools](#tools)
+[Youtube](#youtube) • [YT Music](#youtube-music) • [Reddit](#reddit) • [Translate](#translate) • [Search Engines](#search-engines) • [Medium](#medium) • [Twitter](#twitter) • [Imgur](#imgur) • [Instagram](#instagram) • [Tiktok](#tiktok) • [Odyssey](#odyssey) • [Wikipedia](#wikipedia) • [Tools](#tools)
 
 ☰ You can jump between sections via the little menu icon above to the left. 
 
@@ -177,6 +177,14 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/pablouser1/ProxiTok#installation)
 
+### Odyssey
+- **Librarian**
+   - Open-Source, lightweight and privacy-respecting frontened for Odyssey.
+   - [Main Instance](https://lbry.bcow.xyz) | [Repo](https://codeberg.org/librarian/librarian)
+   - [Public Instances](https://codeberg.org/librarian/librarian#clearnet)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://codeberg.org/librarian/librarian#install)
+   - [x] Decentralized Options | [Onion](https://codeberg.org/librarian/librarian#tor)
 
 ### Wikipedia
 - **Wikiless**
