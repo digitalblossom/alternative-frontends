@@ -182,7 +182,7 @@ ___
 - **ProxiTok**
    - Open-Source frontend for Tiktok that proxies users requests.
    - [Main Instance](https://proxitok.herokuapp.com) | [Repo](https://github.com/pablouser1/ProxiTok)
-   - Public Instances n/a
+   - [Public Instances](https://github.com/pablouser1/ProxiTok/wiki/Public-instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/pablouser1/ProxiTok#installation)
 
