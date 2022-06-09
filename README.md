@@ -7,7 +7,7 @@
 ___
 ⓘ You can suggest new frontends and modifications to the list **[here](https://github.com/digitalblossom/alternative-frontends/issues/new/choose)**.
 ___
-[Youtube](#youtube) • [YT Music](#youtube-music) • [Reddit](#reddit) • [Translate](#translate) • [Search Engines](#search-engines) • [Medium](#medium) • [Twitter](#twitter) • [Imgur](#imgur) • [Instagram](#instagram) • [Tiktok](#tiktok) • [Odysee](#odysee) • [Wikipedia](#wikipedia) • [Tools](#tools)
+[Youtube](#youtube) • [YT Music](#youtube-music) • [Reddit](#reddit) • [Twitter](#twitter) • [Imgur](#imgur) • [Tiktok](#tiktok) • [Medium](#medium) • [Translate](#translate) • [Search Engines](#search-engines) • [Instagram](#instagram) • [Odysee](#odysee) • [Wikipedia](#wikipedia) • [Tools](#tools)
 
 ☰ You can jump between sections via the little menu icon above to the left. 
 
@@ -87,54 +87,6 @@ ___
 
    ⓘ Uses Javascript and Vercel's [audience analytics](https://nextjs.org/analytics). Connects directly to Reddit without a proxy.
 
-### Translate
-- **Lingva**
-   - Tracking-free Google Translate frontend
-   - [Main Instance](https://lingva.ml/) | [Repo](https://github.com/TheDavidDelta/lingva-translate)
-   - [Public Instances](https://github.com/TheDavidDelta/lingva-translate#instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/TheDavidDelta/lingva-translate#deployment)
-
-- **SimplyTranslate**
-   - FOSS Javascript-free frontend for multiple translators, including Google Translate and DeepL
-   - [Homepage](https://simple-web.org/projects/simplytranslate.html) | [Main Instance](https://simplytranslate.org) | [Repo](https://sr.ht/~metalune/SimplyTranslate) 
-   - [Public Instances](https://simple-web.org/instances/simplytranslate)
-   - [x] Open-Source
-   - [x] Self-Hostable
-
-
-### Search Engines
-- **Whoogle**
-   - Google search result frontend without Javascript, ads, cookies and tracking. Tor and HTTP/SOCKS proxy support
-   - Main Instance n/a | [Repo](https://github.com/benbusby/whoogle-search)
-   - [Public Instances](https://github.com/benbusby/whoogle-search#public-instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/benbusby/whoogle-search#install)
-
-- **SearX**
-   - Privacy-respecting, self-hostable metasearch engine. Acts as frontend for more than 70 search services.
-   - [Homepage](https://searx.github.io/searx) | [Repo](https://github.com/searx/searx)
-   - [Public Instances](https://searx.space)
-   - [x] Open-Source
-   - [x] Self-Hostable
-   - [x] Decentralized Options | [Onion](https://searx.space)
-
-- **SearxNG**
-   - Fork of SearX with UI improvements (including to the settings page) and updates to the selfhosting procedure.
-   - [Homepage](https://searxng.org) | [Repo](https://github.com/searxng/searxng)
-   - [Public Instances](https://searx.space)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://docs.searxng.org/admin/index.html)
-   - [x] Decentralized Options | [Onion](https://searx.space)
-
-### Medium
-- **Scribe**
-   - Tracking- and ad-free FOSS frontend for Medium
-   - [Main Instance](https://scribe.rip) | [Repo](https://git.sr.ht/~edwardloveall/scribe)
-   - [Public Instances](https://git.sr.ht/~edwardloveall/scribe/tree/main/docs/instances.md)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://git.sr.ht/~edwardloveall/scribe#deploying-your-own) 
-
 ### Twitter
 - **Nitter**
    - Lightweight Twitter frontend. No ads, no Javascript, no tracking. RSS support.
@@ -168,6 +120,61 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable
 
+### Tiktok
+- **ProxiTok**
+   - Open-Source frontend for Tiktok that proxies users requests.
+   - [Main Instance](https://proxitok.herokuapp.com) | [Repo](https://github.com/pablouser1/ProxiTok)
+   - [Public Instances](https://github.com/pablouser1/ProxiTok/wiki/Public-instances)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/pablouser1/ProxiTok#installation)
+
+### Medium
+- **Scribe**
+   - Tracking- and ad-free FOSS frontend for Medium
+   - [Main Instance](https://scribe.rip) | [Repo](https://git.sr.ht/~edwardloveall/scribe)
+   - [Public Instances](https://git.sr.ht/~edwardloveall/scribe/tree/main/docs/instances.md)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://git.sr.ht/~edwardloveall/scribe#deploying-your-own)
+
+### Translate
+- **Lingva**
+   - Tracking-free Google Translate frontend
+   - [Main Instance](https://lingva.ml/) | [Repo](https://github.com/TheDavidDelta/lingva-translate)
+   - [Public Instances](https://github.com/TheDavidDelta/lingva-translate#instances)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/TheDavidDelta/lingva-translate#deployment)
+
+- **SimplyTranslate**
+   - FOSS Javascript-free frontend for multiple translators, including Google Translate and DeepL
+   - [Homepage](https://simple-web.org/projects/simplytranslate.html) | [Main Instance](https://simplytranslate.org) | [Repo](https://sr.ht/~metalune/SimplyTranslate) 
+   - [Public Instances](https://simple-web.org/instances/simplytranslate)
+   - [x] Open-Source
+   - [x] Self-Hostable
+
+### Search Engines
+- **Whoogle**
+   - Google search result frontend without Javascript, ads, cookies and tracking. Tor and HTTP/SOCKS proxy support
+   - Main Instance n/a | [Repo](https://github.com/benbusby/whoogle-search)
+   - [Public Instances](https://github.com/benbusby/whoogle-search#public-instances)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/benbusby/whoogle-search#install)
+
+- **SearX**
+   - Privacy-respecting, self-hostable metasearch engine. Acts as frontend for more than 70 search services.
+   - [Homepage](https://searx.github.io/searx) | [Repo](https://github.com/searx/searx)
+   - [Public Instances](https://searx.space)
+   - [x] Open-Source
+   - [x] Self-Hostable
+   - [x] Decentralized Options | [Onion](https://searx.space)
+
+- **SearxNG**
+   - Fork of SearX with UI improvements (including to the settings page) and updates to the selfhosting procedure.
+   - [Homepage](https://searxng.org) | [Repo](https://github.com/searxng/searxng)
+   - [Public Instances](https://searx.space)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://docs.searxng.org/admin/index.html)
+   - [x] Decentralized Options | [Onion](https://searx.space)
+
 ### Instagram
 - **Bibliogram**
    - Alternative Instagram frontend without Javascript, tracking, ads and signup prompts. Currently unstable due to Instagram's server blocking.
@@ -177,14 +184,6 @@ ___
    - [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Installing%20%28extended%29.md)
 
    ⓘ Bibliogram is currently not working due to Instagram blacklisting servers. 
-
-### Tiktok
-- **ProxiTok**
-   - Open-Source frontend for Tiktok that proxies users requests.
-   - [Main Instance](https://proxitok.herokuapp.com) | [Repo](https://github.com/pablouser1/ProxiTok)
-   - [Public Instances](https://github.com/pablouser1/ProxiTok/wiki/Public-instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/pablouser1/ProxiTok#installation)
 
 ### Odysee
 - **Librarian**
