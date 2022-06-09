@@ -5,7 +5,7 @@
 
 **This is a list of privacy-respecting frontends to popular services like social media. All of them are cross-plattform webapps and should work on your device no matter the OS and hardware.**
 ___
-ⓘ You can suggest new frontends and modifications (new domains, removal ...) **[here](https://github.com/digitalblossom/alternative-frontends/issues/new/choose)**.
+ⓘ You can suggest new frontends and modifications to the list **[here](https://github.com/digitalblossom/alternative-frontends/issues/new/choose)**.
 ___
 [Youtube](#youtube) • [YT Music](#youtube-music) • [Reddit](#reddit) • [Translate](#translate) • [Search Engines](#search-engines) • [Medium](#medium) • [Twitter](#twitter) • [Imgur](#imgur) • [Instagram](#instagram) • [Tiktok](#tiktok) • [Odysee](#odysee) • [Wikipedia](#wikipedia) • [Tools](#tools)
 
@@ -225,6 +225,11 @@ ___
    - [Homepage & Download](https://libredirect.github.io) | [Repo](https://github.com/libredirect/libredirect)
    - [x] Open-Source
 
+- **Redirector**
+   - If a service you want to redirect to is not supported by LibRedirect, this extension lets you manually define redirects.
+   - [Homepage & Download](https://einaregilsson.com/redirector) | [Repo](https://github.com/einaregilsson/Redirector)
+   - [x] Open-Source
+
 - **SSL Labs**
    - Free tool by Qualys that does a deep analysis to check the SSL implementation of a server. Helpful to check public instances. You'll find this on the [Piped](#youtube) page for instance.
    - [Homepage](https://www.ssllabs.com/ssltest/)
@@ -245,8 +250,6 @@ ___
 
 ___
 If you appreciate the work that went into compiling and updating this list, feel free to [![Coffee](https://img.shields.io/badge/Buy%20me%20a-coffee-orange)](https://ko-fi.com/digitalblossom).
-
-Credit to mendel5 for the idea. While his awesome project served as inspiration, this repo is not a fork and uses a different approach with different projects listed.
 ___
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.
 YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC. Google is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of Imgur LLC. Instagram is a trademark of Meta Platforms. Medium is a trademark of A Medium Corporation. Tiktok is a trademark of Bytedance Ltd. Odysee is a trademark of Odysee, Inc.</sup>
