@@ -1,7 +1,7 @@
 ## 𝔸𝕝𝕥𝕖𝕣𝕟𝕒𝕥𝕚𝕧𝕖 Frontends
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/digitalblossom/alternative-frontends/graphs/commit-activity) [![Coffee](https://img.shields.io/badge/Buy%20me%20a-coffee-orange)](https://ko-fi.com/digitalblossom)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/digitalblossom/alternative-frontends/graphs/commit-activity)
 
 **This is a list of privacy-respecting frontends to popular services like social media. All of them are cross-plattform webapps and should work on your device no matter the OS and hardware.**
 ___
@@ -255,8 +255,6 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://yunohost.org/en/install)
 
-___
-If you appreciate the work that went into compiling and updating this list, feel free to [![Coffee](https://img.shields.io/badge/Buy%20me%20a-coffee-orange)](https://ko-fi.com/digitalblossom).
 ___
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.
 YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC. Google is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of Imgur LLC. Instagram is a trademark of Meta Platforms. Medium is a trademark of A Medium Corporation. Tiktok is a trademark of Bytedance Ltd. Odysee is a trademark of Odysee, Inc. Quora is a trademark of Quora Inc.</sup>
