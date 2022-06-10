@@ -109,6 +109,7 @@ ___
    - Rewrite of Rimgu in Go. Works without JS and has several public instances, including an Onion one.
    - [Main Instance](https://i.bcow.xyz/) | [Repo](https://codeberg.org/video-prize-ranch/rimgo)
    - [Public Instances](https://codeberg.org/video-prize-ranch/rimgo#instances)
+   - Pattern for Redirector: `*imgur.com/*` to `https://i.bcow.xyz/$2`
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://codeberg.org/video-prize-ranch/rimgo#install)
    - [x] Decentralized Options | [Onion](https://codeberg.org/video-prize-ranch/rimgo#instances)
