@@ -141,9 +141,10 @@ ___
    - Alternative front-end to Quora. It enables you to see answers without ads, trackers, and popups. Has an unofficial API.
    - [Main Instance](https://quetre.herokuapp.com/) | [Repo](https://github.com/zyachel/quetre#instances)
    - [Public Instances](https://github.com/zyachel/quetre#instances)
+   - Pattern for Redirector: `*quora.com/*` to `https://quetre.herokuapp.com/$2`
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/zyachel/quetre#instances) | [Heroku Deploy](https://heroku.com/deploy?template=https://github.com/zyachel/quetre)
-
+   
 ### Translate
 - **Lingva**
    - Tracking-free Google Translate frontend
