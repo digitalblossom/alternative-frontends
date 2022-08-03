@@ -179,6 +179,14 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/benbusby/whoogle-search#install)
 
+- **LibreX**
+   - A privacy respecting meta search engine for Google and popular torrent sites which can redirect to privacy-respecting frontends
+   - Main Instance n/a | [Repo](https://github.com/hnhx/librex)
+   - [Public Instances](https://github.com/hnhx/librex#instances)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/hnhx/librex/wiki/How-to-host-LibreX)
+   - [x] Decentralized Options | [I2P](https://github.com/hnhx/librex#instances) | [Onion](https://github.com/hnhx/librex#instances)
+
 - **SearX**
    - Privacy-respecting, self-hostable metasearch engine. Acts as frontend for more than 70 search services.
    - [Homepage](https://searx.github.io/searx) | [Repo](https://github.com/searx/searx)
