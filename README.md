@@ -56,11 +56,10 @@ ___
 - **Hyperpipe**
    - A privacy-respecting frontend for YouTube Music, inspired by and built with the help of Piped
    - [Main Instance](https://hyperpipe.surge.sh) | [Repo](https://codeberg.org/Hyperpipe/Hyperpipe)
-   - Public Instances n/a
+   - [Public Instances](https://hyperpipe.codeberg.page)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://codeberg.org/Hyperpipe/Hyperpipe#usage)
- 
-   ⓘ Hyperpipe is in early developement, please audit the code if you intend to selfhost it.
+   - [x] Decentralized Options | [Onion](https://hyperpipe.codeberg.page)
 
 ### Reddit
 - **Teddit**
@@ -163,6 +162,8 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://codeberg.org/SimpleWeb/PornInvidious#how-to-use)
    
+     ⓘ PornInvidious is in early developement, please audit the code if you intend to selfhost it.
+
 ### Translate
 - **Lingva**
    - Tracking-free Google Translate frontend
