@@ -61,6 +61,14 @@ ___
    - [x] Self-Hostable | [Guide](https://codeberg.org/Hyperpipe/Hyperpipe#usage)
    - [x] Decentralized Options | [Onion](https://hyperpipe.codeberg.page)
 
+- **Ossia**
+   - The Ossia Music Player is a free, open source alternative to YouTube Music built with piped api.
+   - [Main Instance](https://ossia.rocks/) [Repo](https://github.com/shie1/ossia)
+   - Public Instances n/a
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/shie1/ossia/pkgs/container/ossia)
+
+
 ### Reddit
 - **Teddit**
    - Privacy-focused lightweight Reddit frontend. No ads, no javascript. Provides an unofficial API. 
