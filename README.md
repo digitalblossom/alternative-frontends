@@ -94,6 +94,14 @@ ___
 
    ⓘ Uses Javascript and Vercel's [audience analytics](https://nextjs.org/analytics). Connects directly to Reddit without a proxy.
 
+- **Xeddit**   
+   - A Xamarin.Forms app for reddit. Open Source frontend for Reddit, written in Xamarin.Forms.
+   - [Main Instance](https://www.xeddit.com/) | [Repo](https://github.com/ErlingMK/Xeddit)
+   - Public Instances n/a
+   - [x] Open-Source
+   - [x] Self-Hostable | Guide n/a
+
+
 ### Twitter
 - **Nitter**
    - Lightweight Twitter frontend. No ads, no Javascript, no tracking. RSS support.
