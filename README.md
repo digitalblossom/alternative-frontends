@@ -101,6 +101,13 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | Guide n/a
 
+- **RedditShar**   
+   - Alternative front-end for Reddit, built with Angular
+   - [Main Instance](https://redditsharp-b7de3.firebaseapp.com/) | [Repo](https://github.com/grey-codes/RedditSharp)
+   - Public Instances n/a
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/grey-codes/RedditSharp#Installation)
+
 
 ### Twitter
 - **Nitter**
