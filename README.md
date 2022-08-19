@@ -17,7 +17,7 @@ ___
 - **Invidious**
    - Lightweight YouTube frontend - no tracking, no ads and Javascript is optional.
    - [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious)
-   - [Public Instances](https://docs.invidious.io/Invidious-Instances.md)
+   - [Public Instances](https://docs.invidious.io/instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://docs.invidious.io/Installation.md)
    - [x] Decentralized Options | [I2P](http://tube.i2p) | [Onion](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md#tor-onion-services) | [Loki](http://invidious.loki)
@@ -284,6 +284,9 @@ ___
    - [x] Self-Hostable | [Guide](https://yunohost.org/en/install)
 
 ___
+Thanks to 3nprob and heartlog for their contributions!
+___
+
 <sup>**Legal addendum**</sup>
 
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.
