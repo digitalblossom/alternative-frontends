@@ -174,7 +174,7 @@ ___
 
 - **SimplyTranslate**
    - FOSS Javascript-free frontend for multiple translators, including Google Translate and DeepL
-   - [Homepage](https://simple-web.org/projects/simplytranslate.html) | [Main Instance](https://simplytranslate.org) | [Repo](https://sr.ht/~metalune/SimplyTranslate) 
+   - [Homepage](https://simple-web.org/projects/simplytranslate.html) | [Main Instance](https://simplytranslate.org) | [Repo](https://codeberg.org/SimpleWeb/SimplyTranslate-Web) 
    - [Public Instances](https://simple-web.org/instances/simplytranslate)
    - [x] Open-Source
    - [x] Self-Hostable
