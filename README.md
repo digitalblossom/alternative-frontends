@@ -292,7 +292,7 @@ ___
    - [x] Self-Hostable | [Guide](https://yunohost.org/en/install)
 
 ___
-Thanks to 3nprob, NxOne14 and heartlog for their contributions!
+Thanks to 3nprob, NxOne14, aaferrari and heartlog for their contributions!
 ___
 
 <sup>**Legal addendum**</sup>
