@@ -222,7 +222,7 @@ ___
 ### Instagram
 - **Bibliogram**
    - Alternative Instagram frontend without Javascript, tracking, ads and signup prompts. Currently unstable due to Instagram's server blocking.
-   - [Main Instance](https://bibliogram.art/) | [Repo](https://sr.ht/~cadence/bibliogram/)
+   - [Repo](https://sr.ht/~cadence/bibliogram/) Bibliogram has been discontinued [Source](https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram)
    - [Public Instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md) 
    - [x] Open-Source 
    - [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Installing%20%28extended%29.md)
