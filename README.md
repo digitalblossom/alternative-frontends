@@ -227,7 +227,7 @@ ___
    - [x] Open-Source 
    - [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Installing%20%28extended%29.md)
 
-   ⓘ Bibliogram is currently not working due to Instagram blacklisting servers. 
+   ⓘ Bibliogram's development has stopped as Instagram is continuing to block servers (if you want to pick up the development of Bibliogram, check [this blog post](https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram) by the original maintainer). There currently is no working open source frontend for Instagram. For some reason, closed source proxy sites like [this one](https://www.pixwox.com) continue working despite doing the exact same thing Bibliogram did.
 
 ### Odysee
 - **Librarian**
@@ -292,7 +292,7 @@ ___
    - [x] Self-Hostable | [Guide](https://yunohost.org/en/install)
 
 ___
-Thanks to 3nprob, NxOne14, aaferrari and heartlog for their contributions!
+Thanks to 3nprob, aaferrari, heartlog, NxOne14 and ZekXtreme for their contributions!
 ___
 
 <sup>**Legal addendum**</sup>
