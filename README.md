@@ -6,6 +6,9 @@
 **This is a list of privacy-respecting frontends to popular services like social media. All of them are cross-plattform webapps and should work on your device no matter the OS and hardware.**
 ___
 ⓘ You can suggest new frontends and modifications to the list **[here](https://github.com/digitalblossom/alternative-frontends/issues/new/choose)**.
+
+Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14** and **ZekXtreme** for their contributions!
+
 ___
 [Youtube](#youtube) • [YT Music](#youtube-music) • [Reddit](#reddit) • [Twitter](#twitter) • [Imgur](#imgur) • [Tiktok](#tiktok) • [Medium](#medium) • [Quora](#quora) • [IMDb](#imdb) • [XVideos](#xvideos) • [Fandom](#fandom) • [Translate](#translate) • [Search Engines](#search-engines) • [Instagram](#instagram) • [Odysee](#odysee) • [Wikipedia](#wikipedia) • [Tools](#tools)
 
@@ -292,11 +295,6 @@ ___
    - [x] Self-Hostable | [Guide](https://yunohost.org/en/install)
 
 ___
-### Credits
-
-Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14** and **ZekXtreme** for their contributions!
-___
-
 <sup>**Legal addendum**</sup>
 
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.
