@@ -7,7 +7,7 @@
 ___
 ⓘ You can suggest new frontends and modifications to the list **[here](https://github.com/digitalblossom/alternative-frontends/issues/new/choose)**.
 
-Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14** and **ZekXtreme** for their contributions!
+Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme** and **TimDaub** for their contributions!
 
 ___
 [Youtube](#youtube) • [YT Music](#youtube-music) • [Reddit](#reddit) • [Twitter](#twitter) • [Imgur](#imgur) • [Tiktok](#tiktok) • [Medium](#medium) • [Quora](#quora) • [IMDb](#imdb) • [XVideos](#xvideos) • [Fandom](#fandom) • [Translate](#translate) • [Search Engines](#search-engines) • [Instagram](#instagram) • [Odysee](#odysee) • [Wikipedia](#wikipedia) • [Tools](#tools)
@@ -223,7 +223,7 @@ ___
    - [x] Decentralized Options | [Onion](https://searx.space)
 
 ### Instagram
-- **Bibliogram**
+- **Bibliogram [Deprecated]**
    - Alternative Instagram frontend without Javascript, tracking, ads and signup prompts. Currently unstable due to Instagram's server blocking.
    - [Main Instance](https://bibliogram.art/) | [Repo](https://sr.ht/~cadence/bibliogram/)
    - [Public Instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md) 
