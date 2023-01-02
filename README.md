@@ -283,6 +283,11 @@ ___
 
    ⓘ Not Open Source, but made by a trustworthy company and operates with a [good privacy policy](https://www.ssllabs.com/downloads/Qualys_SSL_Labs_Terms_of_Use.pdf).
 
+- **Translate You Libre**
+   - FOSS Android frontend for LibreTranslate and Lingva. Uses Material You
+   - [Download](https://github.com/bnyro/translateyou/releases) | [Repo](https://github.com/Bnyro/TranslateYou)
+   - [x] Open-Source
+
 - **UntrackMe**
    - FOSS Android app that redirects to the alternative frontends of several services. Can also clean tracking parameters.
    - [Download & Homepage](https://fedilab.app/wiki/untrackme) | [Repo](https://framagit.org/tom79/nitterizeme) 
