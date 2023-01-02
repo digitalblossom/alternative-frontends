@@ -27,7 +27,7 @@ ___
 
 - **Piped**
    - Alternative privacy-friendly YouTube frontend. Lightweight, no ads (Sponsorblock integrated), no tracking, 4K support and more. 
-   - [Main Instance](https://piped.kavin.rocks) | [Repo](https://github.com/TeamPiped/Piped)
+   - [Main Instance](https://piped.video) | [Repo](https://github.com/TeamPiped/Piped)
    - [Public Instances](https://piped.kavin.rocks/preferences) (scroll down)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://piped-docs.kavin.rocks/docs/self-hosting)
