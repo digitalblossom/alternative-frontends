@@ -7,7 +7,7 @@
 ___
 ⓘ You can suggest new frontends and modifications to the list **[here](https://github.com/digitalblossom/alternative-frontends/issues/new/choose)**.
 
-Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme** and **TimDaub** for their contributions!
+Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101** and **throwaway-d** for their contributions!
 
 ___
 [Youtube](#youtube) • [YT Music](#youtube-music) • [Reddit](#reddit) • [Twitter](#twitter) • [Imgur](#imgur) • [Tiktok](#tiktok) • [Medium](#medium) • [Quora](#quora) • [IMDb](#imdb) • [XVideos](#xvideos) • [Fandom](#fandom) • [Translate](#translate) • [Search Engines](#search-engines) • [Instagram](#instagram) • [Odysee](#odysee) • [Wikipedia](#wikipedia) • [Tools](#tools)
@@ -248,6 +248,8 @@ ___
    - [Public Instances](https://codeberg.org/orenom/wikiless#instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://codeberg.org/orenom/wikiless#installation)
+
+   ⓘ Might or might not be abandoned. There were issues with Wikimedia it appears.
 
 ___
 
