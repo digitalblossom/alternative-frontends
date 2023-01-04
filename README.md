@@ -157,6 +157,14 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/zyachel/quetre#instances) | [Heroku Deploy](https://heroku.com/deploy?template=https://github.com/zyachel/quetre)
 
+### Github
+- **Gothub**
+   - Minimalist JS-free Github frontend in Go
+   - [Main Instance](https://gh.odyssey346.dev) | [Repo](https://codeberg.org/gothub/gothub)
+   - [Public Instances](https://codeberg.org/gothub/gothub/wiki/Instances)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://codeberg.org/gothub/gothub#setup)
+
 ### IMDb
 - **Libremdb**
    - A lightweight, ad-free and js-free alternative front-end to IMDb
@@ -314,6 +322,6 @@ ___
 <sup>**Legal addendum**</sup>
 
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.
-YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC. Google is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of MediaLab AI, Inc. Instagram is a trademark of Meta Platforms. Medium is a trademark of A Medium Corporation. Tiktok is a trademark of Bytedance Ltd. IMDb is a trademark of IMDb.com, Inc. Odysee is a trademark of Odysee, Inc. Quora is a trademark of Quora Inc. XVIDEOS is a trademark of WEBGROUP CZECH REPUBLIC, A.S. FANDOM is a trademark of Fandom, Inc.</sup>
+YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC. Google is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of MediaLab AI, Inc. Instagram is a trademark of Meta Platforms. Medium is a trademark of A Medium Corporation. Tiktok is a trademark of Bytedance Ltd. IMDb is a trademark of IMDb.com, Inc. Odysee is a trademark of Odysee, Inc. Quora is a trademark of Quora Inc. XVIDEOS is a trademark of WEBGROUP CZECH REPUBLIC, A.S. FANDOM is a trademark of Fandom, Inc. GitHub is a trademark of GitHub, Inc.</sup>
 
 <sup> The creators of this repository assume no liability for the accuracy and timeliness of any information provided above. Trademark owner information was researched to the best of the author's knowledge at the time of curation and may be outdated or incorrect.</sup>
