@@ -148,6 +148,8 @@ ___
    - [x] Self-Hostable | [Guide](https://github.com/realaravinth/libmedium#deploy)
    - [x] Decentralized Options | [Onion](https://github.com/realaravinth/libmedium#instances) | [I2P](https://github.com/realaravinth/libmedium#instances)
 
+   ⓘ LibMedium is in early development
+
 ### Quora
 - **Quetre**
    - Alternative front-end to Quora. It enables you to see answers without ads, trackers, and popups. Has an unofficial API.
@@ -164,6 +166,8 @@ ___
    - [Public Instances](https://codeberg.org/gothub/gothub/wiki/Instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://codeberg.org/gothub/gothub#setup)
+
+   ⓘ Gothub is in early development
 
 ### IMDb
 - **Libremdb**
