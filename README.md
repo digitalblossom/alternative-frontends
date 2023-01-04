@@ -105,7 +105,7 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://codeberg.org/3np/rimgu#docker-1)
 
-   ⓘ Rimgu is currently in early development
+   ⓘ Rimgu's development has been paused and Rimgo is recommended instead
    
 - **Rimgo**
    - Rewrite of Rimgu in Go. Works without JS and has several public instances, including an Onion one.
@@ -139,6 +139,14 @@ ___
    - [Public Instances](https://git.sr.ht/~edwardloveall/scribe/tree/main/docs/instances.md)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://git.sr.ht/~edwardloveall/scribe#deploying-your-own)
+
+- **LibMedium**
+   - Minimalist proxy for Medium written in Rust
+   - [Main Instance](https://libmedium.batsense.net) | [Repo](https://github.com/realaravinth/libmedium)
+   - [Public Instances](https://github.com/realaravinth/libmedium#instances)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/realaravinth/libmedium#deploy)
+   - [x] Decentralized Options | [Onion](https://github.com/realaravinth/libmedium#instances) | [I2P](https://github.com/realaravinth/libmedium#instances)
 
 ### Quora
 - **Quetre**
