@@ -1,4 +1,4 @@
-## 𝔸𝕝𝕥𝕖𝕣𝕟𝕒𝕥𝕚𝕧𝕖 Frontends
+## Alternative Frontends
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/digitalblossom/alternative-frontends/graphs/commit-activity)
