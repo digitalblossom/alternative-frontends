@@ -7,10 +7,10 @@
 ___
 ⓘ You can suggest new frontends and modifications to the list **[here](https://github.com/digitalblossom/alternative-frontends/issues/new/choose)**.
 
-Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101** and **HexagonCDN** for their contributions!
+Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN** and **Odyssey346** for their contributions!
 
 ___
-[Youtube](#youtube) • [YT Music](#youtube-music) • [Reddit](#reddit) • [Twitter](#twitter) • [Imgur](#imgur) • [Tiktok](#tiktok) • [Medium](#medium) • [Quora](#quora) • [IMDb](#imdb) • [XVideos](#xvideos) • [Fandom](#fandom) • [Translate](#translate) • [Search Engines](#search-engines) • [Instagram](#instagram) • [Odysee](#odysee) • [Wikipedia](#wikipedia) • [Tools](#tools)
+[Youtube](#youtube) • [YT Music](#youtube-music) • [Reddit](#reddit) • [Twitter](#twitter) • [Imgur](#imgur) • [Tiktok](#tiktok) • [Medium](#medium) • [Quora](#quora) • [GitHub](#github) • [IMDb](#imdb) • [XVideos](#xvideos) • [Fandom](#fandom) • [Translate](#translate) • [Search Engines](#search-engines) • [Instagram](#instagram) • [Odysee](#odysee) • [Wikipedia](#wikipedia) • [Tools](#tools)
 
 ☰ You can jump between sections via the little menu icon above to the left. 
 
@@ -159,8 +159,8 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/zyachel/quetre#instances) | [Heroku Deploy](https://heroku.com/deploy?template=https://github.com/zyachel/quetre)
 
-### Github
-- **Gothub**
+### GitHub
+- **GotHub**
    - Minimalist JS-free Github frontend in Go
    - [Main Instance](https://gh.odyssey346.dev) | [Repo](https://codeberg.org/gothub/gothub)
    - [Public Instances](https://codeberg.org/gothub/gothub/wiki/Instances)
