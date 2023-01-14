@@ -10,13 +10,13 @@ ___
 Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN** and **Odyssey346** for their contributions!
 
 ___
-[Youtube](#youtube) • [YT Music](#youtube-music) • [Reddit](#reddit) • [Twitter](#twitter) • [Imgur](#imgur) • [Tiktok](#tiktok) • [Medium](#medium) • [Quora](#quora) • [GitHub](#github) • [IMDb](#imdb) • [XVideos](#xvideos) • [Fandom](#fandom) • [Translate](#translate) • [Search Engines](#search-engines) • [Instagram](#instagram) • [Odysee](#odysee) • [Wikipedia](#wikipedia) • [Tools](#tools)
+[Youtube™](#youtube) • [YT Music™](#youtube-music) • [Reddit™](#reddit) • [Twitter™](#twitter) • [Imgur™](#imgur) • [TikTok™](#tiktok) • [Medium™](#medium) • [Quora™](#quora) • [GitHub™](#github) • [IMDb™](#imdb) • [XVideos™](#xvideos) • [Fandom™](#fandom) • [Translate](#translate) • [Search Engines](#search-engines) • [Instagram™](#instagram) • [Odysee™](#odysee) • [Wikipedia™](#wikipedia) • [Tools](#tools)
 
 ☰ You can jump between sections via the little menu icon above to the left. 
 
 ⓘ Check out the [tools section](#tools) at the bottom to find out how to easily adopt and even self-host.
 ___
-### YouTube
+### YouTube™
 - **Invidious**
    - Lightweight YouTube frontend - no tracking, no ads and Javascript is optional.
    - [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious)
@@ -48,7 +48,7 @@ ___
    - [x] Self-Hostable | [Guide](https://github.com/ViewTube/viewtube-vue#host-it-yourself)
 
 
-### YouTube Music
+### YouTube Music™
 - **BeatBump**
    - Privacy-friendly YouTube Music frontend built with Svelte. Supports device sync.
    - [Main Instance](https://beatbump.ml) | [Repo](https://github.com/snuffyDev/Beatbump)
@@ -64,7 +64,7 @@ ___
    - [x] Self-Hostable | [Guide](https://codeberg.org/Hyperpipe/Hyperpipe#usage)
    - [x] Decentralized Options | [Onion](https://hyperpipe.codeberg.page)
 
-### Reddit
+### Reddit™
 - **Teddit**
    - Privacy-focused lightweight Reddit frontend. No ads, no javascript. Provides an unofficial API. 
    - [Main Instance](https://teddit.net) | [Repo](https://codeberg.org/teddit/teddit)
@@ -89,7 +89,7 @@ ___
 
    ⓘ Uses Javascript and Vercel's [audience analytics](https://nextjs.org/analytics). Connects directly to Reddit without a proxy.
 
-### Twitter
+### Twitter™
 - **Nitter**
    - Lightweight Twitter frontend. No ads, no Javascript, no tracking. RSS support.
    - [Main Instance](https://nitter.net/) | [Repo](https://github.com/zedeus/nitter)
@@ -97,7 +97,7 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/zedeus/nitter#installation)
 
-### Imgur
+### Imgur™
 - **Rimgu**
    - Lightweight Imgur frontend without Javascript and ads. Uses its own request implementation. Can use either API or scraping.
    - Main Instance n/a | [Repo](https://codeberg.org/3np/rimgu)
@@ -123,7 +123,7 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable
 
-### Tiktok
+### TikTok™
 - **ProxiTok**
    - Open-Source frontend for Tiktok that proxies users requests.
    - [Main Instance](https://proxitok.pabloferreiro.es) | [Repo](https://github.com/pablouser1/ProxiTok)
@@ -132,7 +132,7 @@ ___
    - [x] Self-Hostable | [Guide](https://github.com/pablouser1/ProxiTok#installation)
    - [x] Decentralized Options | [Onion](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#tor)
 
-### Medium
+### Medium™
 - **Scribe**
    - Tracking- and ad-free FOSS frontend for Medium
    - [Main Instance](https://scribe.rip) | [Repo](https://git.sr.ht/~edwardloveall/scribe)
@@ -150,7 +150,7 @@ ___
 
    ⓘ LibMedium is in early development
 
-### Quora
+### Quora™
 - **Quetre**
    - Alternative front-end to Quora. It enables you to see answers without ads, trackers, and popups. Has an unofficial API.
    - [Main Instance](https://quetre.herokuapp.com/) | [Repo](https://github.com/zyachel/quetre#instances)
@@ -159,7 +159,7 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/zyachel/quetre#instances) | [Heroku Deploy](https://heroku.com/deploy?template=https://github.com/zyachel/quetre)
 
-### GitHub
+### GitHub™
 - **GotHub**
    - Minimalist JS-free Github frontend in Go
    - [Main Instance](https://gh.odyssey346.dev) | [Repo](https://codeberg.org/gothub/gothub)
@@ -169,7 +169,7 @@ ___
 
    ⓘ Gothub is in early development
 
-### IMDb
+### IMDb™
 - **Libremdb**
    - A lightweight, ad-free and js-free alternative front-end to IMDb
    - [Main Instance](https://libremdb.herokuapp.com/) | [Repo](https://github.com/zyachel/libremdb)
@@ -178,7 +178,7 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/zyachel/libremdb#installation)
 
-### XVideos
+### XVideos™
 - **PornInvidious [NSFW!]**
    - A privacy respecting frontend for XVideos from the team behind SimplyTranslate
    - [Main Instance](https://porninvidious.esmailelbob.xyz) | [Repo](https://codeberg.org/SimpleWeb/PornInvidious)
@@ -188,7 +188,7 @@ ___
    
      ⓘ PornInvidious is in early developement, please audit the code if you intend to selfhost it.
 
-### Fandom
+### Fandom™
 - **BreezeWiki**
    - A privacy-friendly, decluttered frontend for Fandom wikis
    - [Main Instance](https://breezewiki.com/) | [Repo](https://gitdab.com/cadence/breezewiki)
@@ -243,7 +243,7 @@ ___
    - [x] Self-Hostable | [Guide](https://docs.searxng.org/admin/index.html)
    - [x] Decentralized Options | [Onion](https://searx.space)
 
-### Instagram
+### Instagram™
 - **Bibliogram [Deprecated]**
    - Alternative Instagram frontend without Javascript, tracking, ads and signup prompts. Currently unstable due to Instagram's server blocking.
    - [Main Instance](https://bibliogram.art/) | [Repo](https://sr.ht/~cadence/bibliogram/)
@@ -253,7 +253,7 @@ ___
 
    ⓘ Bibliogram's development has stopped as Instagram is continuing to block servers (if you want to pick up the development of Bibliogram, check [this blog post](https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram) by the original maintainer). There currently is no working open source frontend for Instagram. For some reason, closed source proxy sites like [this one](https://www.pixwox.com) continue working despite doing the exact same thing Bibliogram did.
 
-### Odysee
+### Odysee™
 - **Librarian**
    - Open-Source, lightweight and privacy-respecting frontened for Odysee.
    - [Main Instance](https://lbry.bcow.xyz) | [Repo](https://codeberg.org/librarian/librarian)
@@ -262,7 +262,7 @@ ___
    - [x] Self-Hostable | [Guide](https://codeberg.org/librarian/librarian#install)
    - [x] Decentralized Options | [Onion](https://codeberg.org/librarian/librarian#tor)
 
-### Wikipedia
+### Wikipedia™
 - **Wikiless**
    - A Javascript-free Wikipedia frontend. Should work in countries where Wikipedia is censored.
    - [Main Instance](https://wikiless.org) | [Repo](https://codeberg.org/orenom/wikiless)
@@ -326,6 +326,6 @@ ___
 <sup>**Legal addendum**</sup>
 
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.
-YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC. Google is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of MediaLab AI, Inc. Instagram is a trademark of Meta Platforms. Medium is a trademark of A Medium Corporation. Tiktok is a trademark of Bytedance Ltd. IMDb is a trademark of IMDb.com, Inc. Odysee is a trademark of Odysee, Inc. Quora is a trademark of Quora Inc. XVIDEOS is a trademark of WEBGROUP CZECH REPUBLIC, A.S. FANDOM is a trademark of Fandom, Inc. GitHub is a trademark of GitHub, Inc.</sup>
+YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC. Google is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of MediaLab AI, Inc. Instagram is a trademark of Meta Platforms. Medium is a trademark of A Medium Corporation. TikTok is a trademark of Bytedance Ltd. IMDb is a trademark of IMDb.com, Inc. Odysee is a trademark of Odysee, Inc. Quora is a trademark of Quora Inc. XVIDEOS is a trademark of WEBGROUP CZECH REPUBLIC, A.S. FANDOM is a trademark of Fandom, Inc. GitHub is a trademark of GitHub, Inc.</sup>
 
 <sup> The creators of this repository assume no liability for the accuracy and timeliness of any information provided above. Trademark owner information was researched to the best of the author's knowledge at the time of curation and may be outdated or incorrect.</sup>
