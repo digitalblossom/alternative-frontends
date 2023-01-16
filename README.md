@@ -172,7 +172,7 @@ ___
 ### StackOverflow
 - **AnonymousOverflow**
    - View StackOverflow in privacy and without the clutter
-   - [Main Instance] https://code.whatever.social] | [Repo](https://github.com/httpjamesm/AnonymousOverflow)
+   - [Main Instance](https://code.whatever.social) | [Repo](https://github.com/httpjamesm/AnonymousOverflow)
    - [Public Instances](https://github.com/httpjamesm/AnonymousOverflow#clearnet-instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/httpjamesm/AnonymousOverflow/wiki/Deployment)
