@@ -172,7 +172,7 @@ ___
 ### IMDb
 - **Libremdb**
    - A lightweight, ad-free and js-free alternative front-end to IMDb
-   - [Main Instance](https://libremdb.herokuapp.com/) | [Repo](https://github.com/zyachel/libremdb)
+   - [Main Instance](https://libremdb.iket.me) | [Repo](https://github.com/zyachel/libremdb)
    - [Public Instances](https://github.com/zyachel/libremdb#instances)
    - Pattern for Redirector: `https://www.imdb.com/*` to `https://libremd.herokuapp.com/$1`
    - [x] Open-Source
