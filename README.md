@@ -221,7 +221,7 @@ ___
 
 - **LibreX**
    - A privacy respecting meta search engine for Google and popular torrent sites which can redirect to privacy-respecting frontends
-   - Main Instance n/a | [Repo](https://github.com/hnhx/librex)
+   - [Main Instance](https://search.femboy.hu) | [Repo](https://github.com/hnhx/librex)
    - [Public Instances](https://github.com/hnhx/librex#instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/hnhx/librex/wiki/How-to-host-LibreX)
