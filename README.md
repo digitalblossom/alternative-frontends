@@ -10,7 +10,7 @@ ___
 Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN** and **Odyssey346** for their contributions!
 
 ___
-[Youtube](#youtube) • [YT Music](#youtube-music) • [Reddit](#reddit) • [Twitter](#twitter) • [Imgur](#imgur) • [Tiktok](#tiktok) • [Medium](#medium) • [Quora](#quora) • [GitHub](#github) • [IMDb](#imdb) • [XVideos](#xvideos) • [Fandom](#fandom) • [Translate](#translate) • [Search Engines](#search-engines) • [Instagram](#instagram) • [Odysee](#odysee) • [Wikipedia](#wikipedia) • [Tools](#tools)
+[Youtube](#youtube) • [YT Music](#youtube-music) • [Reddit](#reddit) • [Twitter](#twitter) • [Imgur](#imgur) • [Tiktok](#tiktok) • [Medium](#medium) • [Quora](#quora) • [GitHub](#github) • [StackOverflow](stackoverflow) [IMDb](#imdb) • [XVideos](#xvideos) • [Fandom](#fandom) • [Translate](#translate) • [Search Engines](#search-engines) • [Instagram](#instagram) • [Odysee](#odysee) • [Wikipedia](#wikipedia) • [Tools](#tools)
 
 ☰ You can jump between sections via the little menu icon above to the left. 
 
@@ -169,6 +169,15 @@ ___
 
    ⓘ Gothub is in early development
 
+### StackOverflow
+- **AnonymousOverflow**
+   - View StackOverflow in privacy and without the clutter
+   - [Main Instance] https://code.whatever.social] | [Repo](https://github.com/httpjamesm/AnonymousOverflow)
+   - [Public Instances](https://github.com/httpjamesm/AnonymousOverflow#clearnet-instances)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/httpjamesm/AnonymousOverflow/wiki/Deployment)
+   - [x] Decentralized Options | [I2P](https://github.com/httpjamesm/AnonymousOverflow#other-instances) | [Onion](https://github.com/httpjamesm/AnonymousOverflow#other-instances)
+
 ### IMDb
 - **Libremdb**
    - A lightweight, ad-free and js-free alternative front-end to IMDb
@@ -326,6 +335,6 @@ ___
 <sup>**Legal addendum**</sup>
 
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.
-YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC. Google is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of MediaLab AI, Inc. Instagram is a trademark of Meta Platforms. Medium is a trademark of A Medium Corporation. Tiktok is a trademark of Bytedance Ltd. IMDb is a trademark of IMDb.com, Inc. Odysee is a trademark of Odysee, Inc. Quora is a trademark of Quora Inc. XVIDEOS is a trademark of WEBGROUP CZECH REPUBLIC, A.S. FANDOM is a trademark of Fandom, Inc. GitHub is a trademark of GitHub, Inc.</sup>
+YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC. Google is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of MediaLab AI, Inc. Instagram is a trademark of Meta Platforms. Medium is a trademark of A Medium Corporation. Tiktok is a trademark of Bytedance Ltd. IMDb is a trademark of IMDb.com, Inc. Odysee is a trademark of Odysee, Inc. Quora is a trademark of Quora Inc. XVIDEOS is a trademark of WEBGROUP CZECH REPUBLIC, A.S. FANDOM is a trademark of Fandom, Inc. GitHub is a trademark of GitHub, Inc. StackOverflow is a trademark Stack Exchange, Inc.</sup>
 
 <sup> The creators of this repository assume no liability for the accuracy and timeliness of any information provided above. Trademark owner information was researched to the best of the author's knowledge at the time of curation and may be outdated or incorrect.</sup>
