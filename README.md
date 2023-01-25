@@ -10,7 +10,7 @@ ___
 Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN** and **Odyssey346** for their contributions!
 
 ___
-[Youtube](#youtube) • [YT Music](#youtube-music) • [Reddit](#reddit) • [Twitter](#twitter) • [Imgur](#imgur) • [Tiktok](#tiktok) • [Medium](#medium) • [Quora](#quora) • [GitHub](#github) • [StackOverflow](#stackoverflow) • [IMDb](#imdb) • [XVideos](#xvideos) • [Fandom](#fandom) • [Translate](#translate) • [Search Engines](#search-engines) • [Instagram](#instagram) • [Odysee](#odysee) • [Wikipedia](#wikipedia) • [Tools](#tools)
+[Youtube](#youtube) • [YT Music](#youtube-music) • [Reddit](#reddit) • [Twitter](#twitter) • [Imgur](#imgur) • [Tiktok](#tiktok) • [Medium](#medium) • [Quora](#quora) • [GitHub](#github) • [StackOverflow](#stackoverflow) • [IMDb](#imdb) • [Genius](#genius) • [XVideos](#xvideos) • [Fandom](#fandom) • [Translate](#translate) • [Search Engines](#search-engines) • [Instagram](#instagram) • [Odysee](#odysee) • [Wikipedia](#wikipedia) • [Tools](#tools)
 
 ☰ You can jump between sections via the little menu icon above to the left. 
 
@@ -187,6 +187,15 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/zyachel/libremdb#installation)
 
+### Genius
+- **Dumb**
+   - Dumb tries to make reading lyrics from Genius a pleasant experience and as lightweight as possible
+   - Main Instance n/a | [Repo](https://github.com/rramiachraf/dumb)
+   - [Public Instances](https://github.com/rramiachraf/dumb#public-instances)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/rramiachraf/dumb#installation--usage)
+   - [x] Decentralized Options | [I2P](https://github.com/rramiachraf/dumb#i2p) | [Onion](https://github.com/rramiachraf/dumb#tor)
+
 ### XVideos
 - **PornInvidious [NSFW!]**
    - A privacy respecting frontend for XVideos from the team behind SimplyTranslate
@@ -335,6 +344,6 @@ ___
 <sup>**Legal addendum**</sup>
 
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.
-YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC. Google is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of MediaLab AI, Inc. Instagram is a trademark of Meta Platforms. Medium is a trademark of A Medium Corporation. Tiktok is a trademark of Bytedance Ltd. IMDb is a trademark of IMDb.com, Inc. Odysee is a trademark of Odysee, Inc. Quora is a trademark of Quora Inc. XVIDEOS is a trademark of WEBGROUP CZECH REPUBLIC, A.S. FANDOM is a trademark of Fandom, Inc. GitHub is a trademark of GitHub, Inc. StackOverflow is a trademark Stack Exchange, Inc.</sup>
+YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC. Google is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of MediaLab AI, Inc. Instagram is a trademark of Meta Platforms. Medium is a trademark of A Medium Corporation. Tiktok is a trademark of Bytedance Ltd. IMDb is a trademark of IMDb.com, Inc. Odysee is a trademark of Odysee, Inc. Quora is a trademark of Quora Inc. XVIDEOS is a trademark of WEBGROUP CZECH REPUBLIC, A.S. FANDOM is a trademark of Fandom, Inc. GitHub is a trademark of GitHub, Inc. StackOverflow is a trademark Stack Exchange, Inc. Genius is a trademark of ML Genius Holdings, LLC.</sup>
 
 <sup> The creators of this repository assume no liability for the accuracy and timeliness of any information provided above. Trademark owner information was researched to the best of the author's knowledge at the time of curation and may be outdated or incorrect.</sup>
