@@ -75,7 +75,7 @@ ___
 
 - **Libreddit**
    - Privacy-focused fast Reddit frontend without ads, javascript and tracking. All requests are proxied through the server.
-   - [Main Instance](https://libreddit.spike.codes) | [Repo](https://github.com/spikecodes/libreddit)
+   - [Main Instance](https://libreddit.freedit.eu/) | [Repo](https://github.com/spikecodes/libreddit)
    - [Public Instances](https://github.com/spikecodes/libreddit#instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/spikecodes/libreddit#installation)
