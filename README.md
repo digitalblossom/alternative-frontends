@@ -162,8 +162,8 @@ ___
 ### GitHub
 - **GotHub**
    - Minimalist JS-free Github frontend in Go
-   - [Main Instance](https://gh.odyssey346.dev) | [Repo](https://codeberg.org/gothub/gothub)
-   - [Public Instances](https://codeberg.org/gothub/gothub/wiki/Instances)
+   - [Main Instance](https://gh.bloatcat.tk/) | [Repo](https://codeberg.org/gothub/gothub)
+   - [Public Instances](https://codeberg.org/gothub/gothub#instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://codeberg.org/gothub/gothub#setup)
 
