@@ -261,6 +261,14 @@ ___
    - [x] Self-Hostable | [Guide](https://docs.searxng.org/admin/index.html)
    - [x] Decentralized Options | [Onion](https://searx.space)
 
+- **4get**
+   - Privacy-respecting, self-hostable metasearch engine without JavaScript. Acts as frontend for 9 search services.
+   - [Homepage](https://4get.ca/) | [Repo](https://git.lolcat.ca/lolcat/4get)
+   - [Public Instances](https://4get.ca/instances)
+   - [x] Open-Source
+   - [x] Self-Hostable
+   - [x] Decentralized Options | [Onion](http://4getwebfrq5zr4sxugk6htxvawqehxtdgjrbcn2oslllcol2vepa23yd.onion/)
+
 ### Instagram
 - **Bibliogram [Deprecated]**
    - Alternative Instagram frontend without Javascript, tracking, ads and signup prompts. Currently unstable due to Instagram's server blocking.
