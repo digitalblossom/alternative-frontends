@@ -7,7 +7,7 @@
 ___
 ⓘ You can suggest new frontends and modifications to the list **[here](https://github.com/digitalblossom/alternative-frontends/issues/new/choose)**.
 
-Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346** and **gi-yt** for their contributions!
+Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346**, **gi-yt** and **Solomon1732** for their contributions!
 
 ___
 [Youtube](#youtube) • [YT Music](#youtube-music) • [Reddit](#reddit) • [Twitter](#twitter) • [Imgur](#imgur) • [Tiktok](#tiktok) • [Medium](#medium) • [Quora](#quora) • [GitHub](#github) • [StackOverflow](#stackoverflow) • [IMDb](#imdb) • [Genius](#genius) • [XVideos](#xvideos) • [Fandom](#fandom) • [Translate](#translate) • [Search Engines](#search-engines) • [Instagram](#instagram) • [Odysee](#odysee) • [Wikipedia](#wikipedia) • [Tools](#tools)
@@ -96,6 +96,8 @@ ___
    - [Public Instances](https://github.com/zedeus/nitter/wiki/Instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/zedeus/nitter#installation)
+
+   ⓘ The maintainer has [declared Nitter abandoned](https://github.com/zedeus/nitter/issues/1155) because of X's/Twitter's actions, but it still works most of the time.
 
 ### Imgur
 - **Rimgu**
