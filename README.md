@@ -7,7 +7,7 @@
 ___
 ⓘ You can suggest new frontends and modifications to the list **[here](https://github.com/digitalblossom/alternative-frontends/issues/new/choose)**.
 
-Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346**, **gi-yt** and **Solomon1732** for their contributions!
+Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346**, **gi-yt**, **Solomon1732** and **lolcatw** for their contributions!
 
 ___
 [Youtube](#youtube) • [YT Music](#youtube-music) • [Reddit](#reddit) • [Twitter](#twitter) • [Imgur](#imgur) • [Tiktok](#tiktok) • [Medium](#medium) • [Quora](#quora) • [GitHub](#github) • [StackOverflow](#stackoverflow) • [IMDb](#imdb) • [Genius](#genius) • [XVideos](#xvideos) • [Fandom](#fandom) • [Translate](#translate) • [Search Engines](#search-engines) • [Instagram](#instagram) • [Odysee](#odysee) • [Wikipedia](#wikipedia) • [Tools](#tools)
@@ -262,6 +262,14 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://docs.searxng.org/admin/index.html)
    - [x] Decentralized Options | [Onion](https://searx.space)
+ 
+- **4Get**
+   - Meta-search engine that removes tracking parameters. Supports all major providers, including image and video embedding.
+   - [Main instance](https://4get.ca) | [Repo](https://git.lolcat.ca/lolcat/4get)
+   - [Public Instances](https://4get.ca/instances)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://git.lolcat.ca/lolcat/4get#installation)
+   - [x] Decentralized Options | [Onion](http://4getwebfrq5zr4sxugk6htxvawqehxtdgjrbcn2oslllcol2vepa23yd.onion)
 
 ### Instagram
 - **Bibliogram [Deprecated]**
