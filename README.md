@@ -89,6 +89,13 @@ ___
 
    ⓘ Uses Javascript and Vercel's [audience analytics](https://nextjs.org/analytics). Connects directly to Reddit without a proxy.
 
+- **Redlib**
+   - Libreddit fork that uses mobile app API to avoid rate limiting.
+   - [Main Instance](https://redlib.matthew.science) | [Repo](https://github.com/redlib-org/redlib)
+   - [Public Instances](https://github.com/redlib-org/redlib-instances/blob/main/instances.md)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/redlib-org/redlib#deployment)
+
 ### Twitter
 - **Nitter**
    - Lightweight Twitter frontend. No ads, no Javascript, no tracking. RSS support.
